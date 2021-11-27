@@ -7,3 +7,11 @@ Bluetooth operations for the Troll, supporting mobile & an api
 - troll config
 - ...!
 
+# Sensors
+
+- Temperature
+- Humidity
+- Light
+- Pressure
+- Ambient Light Levels
+
